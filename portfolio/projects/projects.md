@@ -5,7 +5,7 @@ title: Projects
 
 ### C++
   - [TicTacToe in c++](https://aminullahtajmuhammad.github.io/portfolio/projects/cpp/TicTacToe)
-  - [Snake Game in c++](https://aminullahtajmuhammad.github.io/portfolio/projects/cpp/snake-game-with-AI)
+  - [Snake Game in c++](https://aminullahtajmuhammad.github.io/portfolio/projects/cpp/Snake_Game_with_AI)
   
 ### Android
   - [ToDo list App](https://aminullahtajmuhammad.github.io/portfolio/projects/Android/ToDo)
