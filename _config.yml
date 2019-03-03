@@ -27,10 +27,10 @@ navbar-links:
     - About Me: "about-me/About-Me"
     - Skills: "about-me/Skills"
     - Resume: "https://drive.google.com/file/d/1ZAVBbAcTzAsdQKqylMa-7pObI8ZXKshu/view?usp=sharing"
-  Resources:
-    - Github: "https://github.com/AminullahTajMuhammad"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Protfolio:
+    - PDF Portfolio: "https://github.com/AminullahTajMuhammad"
+    - Projects: "http://www.markdowntutorial.com/"
+    - Libraries:
   Author's home: "http://aminullahtajmuhammad.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
