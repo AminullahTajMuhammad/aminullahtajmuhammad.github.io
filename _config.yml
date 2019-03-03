@@ -25,6 +25,7 @@ description: I am Aminullah Taj Muhammad student of Computer Science. I am from 
 navbar-links:
   About Me:
     - About Me: "about-me/About-Me"
+    - Skills: "about-me/Skills"
   Resources:
     - Github: "https://github.com/AminullahTajMuhammad"
     - Learn markdown: "http://www.markdowntutorial.com/"
