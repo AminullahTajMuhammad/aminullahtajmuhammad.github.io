@@ -11,7 +11,7 @@ It was my second game when I was in 2nd Semester. It was challlenging game becau
 In this game I used many features like X,Y coordinates and used colors on the console screen used windows library ```#include<windows.h>```.
 
 # Source Code
-Code is available on this [Snake Game in c++](https://github.com/AminullahTajMuhammad/Tic-Tac-Toe-in-Cpp/blob/master/tictactoe%20using%20c%2B%2B.cpp). 
+Code is available on this [Snake Game in c++](https://github.com/AminullahTajMuhammad/Snake-Game-in-c-/blob/master/Snake%20Game%20Final.cpp). 
 
 # Game Images
 ![snake1](https://raw.githubusercontent.com/AminullahTajMuhammad/Snake-Game-in-c-/master/snake%201.JPG)
