@@ -30,9 +30,14 @@ navbar-links:
     - Resume: "https://drive.google.com/file/d/1ZAVBbAcTzAsdQKqylMa-7pObI8ZXKshu/view?usp=sharing"
   Protfolio:
     - PDF Portfolio:
-      Projects:
-        - TicTacToe: "aminullahtajmuhammad.github.io"
-    - Libraries:
+  Projects:
+    - TicTacToe in C++: " "
+    - Snake Game with AI in C++: " "
+  Android Projects:
+    - ToDo list: ""
+    - B Hero Blood Bank: ""
+    - Getsplash: "" 
+    
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
