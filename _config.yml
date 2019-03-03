@@ -29,9 +29,8 @@ navbar-links:
     - Skills: "about-me/Skills"
     - Resume: "https://drive.google.com/file/d/1ZAVBbAcTzAsdQKqylMa-7pObI8ZXKshu/view?usp=sharing"
   Protfolio:
-    - PDF Portfolio: ""
+    - PDF Portfolio:
     - Projects:
-      - TicTacToe Game:
     - Libraries:
 
 # Image to show in the navigation bar - image must be a square (width = height)
