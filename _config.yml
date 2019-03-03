@@ -31,11 +31,7 @@ navbar-links:
   Protfolio:
     - PDF Portfolio: "portfolio/pdf-portfolio"
   Projects:
-    - TicTacToe in C++: " "
-    - Snake Game with AI in C++: " "
-    - ToDo list: ""
-    - B Hero Blood Bank: ""
-    - Getsplash: "" 
+    - My Projects: "portfolio/projects/projects"
     
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -50,7 +46,7 @@ avatar: "/img/pp=3.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#6b7482"
+navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
