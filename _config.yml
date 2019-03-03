@@ -29,8 +29,9 @@ navbar-links:
     - Skills: "about-me/Skills"
     - Resume: "https://drive.google.com/file/d/1ZAVBbAcTzAsdQKqylMa-7pObI8ZXKshu/view?usp=sharing"
   Protfolio:
-    - PDF Portfolio: "https://github.com/AminullahTajMuhammad"
-    - Projects: "http://www.markdowntutorial.com/"
+    - PDF Portfolio: ""
+    - Projects:
+      - TicTacToe Game: "portfolio/projects/tictactoe"
     - Libraries:
 
 # Image to show in the navigation bar - image must be a square (width = height)
