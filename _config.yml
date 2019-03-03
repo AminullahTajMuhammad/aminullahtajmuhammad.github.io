@@ -33,7 +33,6 @@ navbar-links:
   Projects:
     - TicTacToe in C++: " "
     - Snake Game with AI in C++: " "
-  Android Projects:
     - ToDo list: ""
     - B Hero Blood Bank: ""
     - Getsplash: "" 
@@ -51,7 +50,7 @@ avatar: "/img/pp=3.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#6b7482"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
