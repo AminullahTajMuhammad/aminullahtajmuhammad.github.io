@@ -1,4 +1,4 @@
-#Projects
+# Projects
 
 ### C++
   - [TicTacToe in c++](https://aminullahtajmuhammad.github.io/portfolio/projects/cpp/TicTacToe)
