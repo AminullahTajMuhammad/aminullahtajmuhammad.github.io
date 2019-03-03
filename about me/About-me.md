@@ -1,6 +1,3 @@
-
-## About Me
-
 Hello, I am Aminullah Taj Muhammad from Pakistan. I am currently lived in Karachi.
 I’m a programmer by choice. I have work experience with languages like C++, Java. 
 I am basically C++ programming, Web Designer, Android Develepor developed many project 
