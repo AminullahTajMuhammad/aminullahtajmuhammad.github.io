@@ -25,7 +25,10 @@ reddit:
   name: "Reddit"
   baseURL: "https://reddit.com/u/"
   icon: "fa-reddit"
-
+medium:
+  name: "Medium"
+  baseURL: "https://medium.com/"
+  icon: "fa-medium"
 google-plus:
   name: "Google+"
   baseURL: "https://plus.google.com/"
