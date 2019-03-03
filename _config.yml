@@ -23,15 +23,16 @@ description: I am Aminullah Taj Muhammad student of Computer Science. I am from 
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "http://aminullahtajmuhammad.github.io"
   About Me:
     - About Me: "about-me/About-Me"
     - Skills: "about-me/Skills"
     - Resume: "https://drive.google.com/file/d/1ZAVBbAcTzAsdQKqylMa-7pObI8ZXKshu/view?usp=sharing"
   Protfolio:
-    - PDF Portfolio: "https://github.com/AminullahTajMuhammad"
-    - Projects: "http://www.markdowntutorial.com/"
-    - Libraries:
-  Author's home: "http://aminullahtajmuhammad.github.io"
+    - PDF Portfolio: "portfolio/pdf-portfolio"
+  Projects:
+    - My Projects: "portfolio/projects/projects"
+    
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
