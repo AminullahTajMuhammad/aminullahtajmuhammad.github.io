@@ -26,6 +26,7 @@ navbar-links:
   About Me:
     - About Me: "about-me/About-Me"
     - Skills: "about-me/Skills"
+    - Resume: "https://drive.google.com/file/d/1ZAVBbAcTzAsdQKqylMa-7pObI8ZXKshu/view?usp=sharing"
   Resources:
     - Github: "https://github.com/AminullahTajMuhammad"
     - Learn markdown: "http://www.markdowntutorial.com/"
