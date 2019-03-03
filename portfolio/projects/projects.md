@@ -1,7 +1,7 @@
 #Projects
 
 ### C++
-  - [TicTacToe in c++](https://aminullahtajmuhammad.github.io/portfolio/projects/cpp/TicTacToe.md)
+  - [TicTacToe in c++](https://aminullahtajmuhammad.github.io/portfolio/projects/cpp/TicTacToe)
   - [Snake Game in c++]()
   
 ### Android
