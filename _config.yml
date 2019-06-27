@@ -27,9 +27,10 @@ navbar-links:
   About Me:
     - About Me: "about-me/About-Me"
     - Skills: "about-me/Skills"
-    - Resume: "https://drive.google.com/file/d/1ZAVBbAcTzAsdQKqylMa-7pObI8ZXKshu/view?usp=sharing"
+    - Resume: "https://drive.google.com/open?id=1fAq4QHFPDdSqrEVeG1abzCp5WOjb20MC"
   Protfolio:
     - PDF Portfolio: "portfolio/pdf-portfolio"
+    - Certificates: "portfolio/certificates"
   Projects:
     - My Projects: "portfolio/projects/projects"
     
