@@ -30,7 +30,7 @@ navbar-links:
     - Resume: "https://drive.google.com/open?id=1fAq4QHFPDdSqrEVeG1abzCp5WOjb20MC"
   Protfolio:
     - PDF Portfolio: "portfolio/pdf-portfolio"
-    - Certificates: "portfolio/certificates"
+    - Certificates: "portfolio/certificates/certificate"
   Projects:
     - My Projects: "portfolio/projects/projects"
     
