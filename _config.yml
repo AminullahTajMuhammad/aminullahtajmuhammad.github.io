@@ -23,7 +23,7 @@ description: iAmin
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "http://aminullahtajmuhammad.github.io"
+  Home: "http://amin.github.io"
   About Me:
     - About Me: "about-me/About-Me"
     - Skills: "about-me/Skills"
