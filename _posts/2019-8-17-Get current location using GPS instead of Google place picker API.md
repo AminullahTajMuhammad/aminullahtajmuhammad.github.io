@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AsyncTask in RecyclerView
+title: Get current location using GPS instead of Google place picker API
 tags: [Place Picker, Android, Location, GPS Location, Programming]
 ---
 
