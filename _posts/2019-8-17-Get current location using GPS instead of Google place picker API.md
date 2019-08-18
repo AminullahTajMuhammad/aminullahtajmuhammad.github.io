@@ -1,4 +1,4 @@
-# Get current location using GPS instead of Google place picker API
+## Get current location using GPS instead of Google place picker API
 ![](https://miro.medium.com/max/1000/0*kvRD2syTAHvCMK4B)
 
 According to the policy of google the place picker is depreciated in January and the new version of place picker is available but it’s very difficult and confusing.
