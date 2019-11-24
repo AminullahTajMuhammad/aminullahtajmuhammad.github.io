@@ -1,3 +1,9 @@
+---
+layout: post
+title: Get current location using GPS instead of Google place picker API
+tags: [Place Picker, Android, Location, GPS Location, Programming]
+---
+
 # Share Image and Text using android Intent
 ![](https://miro.medium.com/max/158/1*6-Or1AYLkeMeCBLE7xDDZA.jpeg)
 
