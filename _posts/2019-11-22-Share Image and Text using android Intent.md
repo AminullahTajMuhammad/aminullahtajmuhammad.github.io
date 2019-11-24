@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Share Image and Text using android Intent
-tags: [Place Picker, Android, Location, GPS Location, Programming]
+tags: [Android App Development, Android, Kotlin, Java, Mobile App Development]
 ---
 
 # Share Image and Text using android Intent
