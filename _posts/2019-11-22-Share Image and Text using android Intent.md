@@ -4,7 +4,6 @@ title: Share Image and Text using android Intent
 tags: [Android App Development, Android, Kotlin, Java, Mobile App Development]
 ---
 
-# Share Image and Text using android Intent
 ![](https://miro.medium.com/max/158/1*6-Or1AYLkeMeCBLE7xDDZA.jpeg)
 
 In this article, we will learn how to share your required data using android intent. This article is part of the “Today I Learnt” category.
