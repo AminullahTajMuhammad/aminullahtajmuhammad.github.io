@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get current location using GPS instead of Google place picker API
+title: Share Image and Text using android Intent
 tags: [Place Picker, Android, Location, GPS Location, Programming]
 ---
 
